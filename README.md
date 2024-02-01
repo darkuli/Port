@@ -3,14 +3,27 @@ Hello, my name is Daria. I am a beginner manual tester with first comercial expe
 
 I consider myself a well developed person with soft skills. Communication is a skill that I have been actively developing for several years, but also one that I want to enhance further. Learning foreign languages, communication techniques and empathy are my strong points. I am a positive person with a lot of energy to act. I am aware of my weaknesses and I am focused on working at them. 
 I am interested in technological innovations, making videos and traveling. My priority is professional and personal growth.I love learning new things and I don’t want to stop in this process.
+
+
+
+
+
 Project name: Training project 1/2023
+
 hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
+
 Operating range:
+
 error analysis and reporting,
+
 work in SCRUM (daily)
+
 support of the Devtool tool (searching and analyzing errors)
+
 choosing the scope of tests myrself.
+
 Date: 21/06/2023 - 20/08/2023
+
 Project name: Cherry-IT: COLT 2/2023
 hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 Operating range:
