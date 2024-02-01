@@ -100,32 +100,56 @@ Personalized learning plan.
 Recruitment interviews.
 
 Testers Summits:
+
 Conference QA Summit 2023 (online)- 30/11/2023
+
 Tester Summit 2023 (online)  31/10/2023 
+
 Testing Summit Switzerland A4Q Testing Summit Switzerland - 14/09/2023
 
 
+
 ITLeaders: Freelancer Software Tester Engineer 
+
 2023 | current
+
 Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
+
 Report defects.
- Collaborate closely with developers and founder. 
+
+Collaborate closely with developers and founder. 
+
 
 Software Tester Engineer - open sources: an application that improves communication among children.
+
 02.10.2023 | current
+
 Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
+
 Report defects using my custom template and track their resolution.
+
 Present test results and feedback to clients, collaborate with developers and other team members to ensure quality and usability.
+
 Emersoft: Part-time Software Test Engineer 
+
 2023 | current
+
 Test Stripe payments and user dashboard, ensure security and functionality.
+
 Define test scenarios, prepare test data, create and track defects using Jira.
+
 Participate in a cross-functional team in an Agile environment, collaborate closely with developers, company CEO and other stakeholders.
+
 Work on the automation backend.
+
 Philip Morris International: customer service consultant
+
 2020– 2023
+
 Supported technical issues of devices and applications, resolved problems and improved performance.
+
 Supported sales team, provided product information and customer service.
+
 
 
 
