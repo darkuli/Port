@@ -14,13 +14,13 @@ hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 
 Operating range:
 
-error analysis and reporting,
+- error analysis and reporting,
 
-work in SCRUM (daily)
+- work in SCRUM (daily)
 
-support of the Devtool tool (searching and analyzing errors)
+- support of the Devtool tool (searching and analyzing errors)
 
-choosing the scope of tests myrself.
+- choosing the scope of tests myrself.
 
 Date: 21/06/2023 - 20/08/2023
 
@@ -30,15 +30,15 @@ hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 
 Operating range:
 
-getting to know GIT and creating the first repository,
+- getting to know GIT and creating the first repository,
 
-creating commits to the repository, and creating PR,
+- creating commits to the repository, and creating PR,
 
-work in departments,
+- work in departments,
 
-application of error reporting and error repetitions using JIRA,
+- application of error reporting and error repetitions using JIRA,
 
-preparation of the test procedure.
+- preparation of the test procedure.
 
 Date: 15/07/2023-13/08/2023
 
@@ -51,53 +51,53 @@ Platform: Novoica
 
 Operating range:
 
-Introduction to JavaScript programming
+- Introduction to JavaScript programming
 
-JS programming tools
+- JS programming tools
 
-Hello, World! program
+- Hello, World! program
 
-Variables
+- Variables
 
-Data types and response conversion
+- Data types and response conversion
 
-Comments
+- Comments
 
-Operator
+- Operator
 
-User interaction - dialog boxes
+- User interaction - dialog boxes
 
-Conditional statements
+- Conditional statements
 
-Loops
+- Loops
 
-Functions
+- Functions
 
-Errors - their types and handling
+- Errors - their types and handling
 
-Code testing
+- Code testing
 
-Course: SQL course from scratch
+- Course: SQL course from scratch
 
-Date: 15/01/2024 - 24/01/2024
+- Date: 15/01/2024 - 24/01/2024
 
-Platform: KursySQL 
+- Platform: KursySQL 
 
-Operating range:
+- Operating range:
 
-SQL language
+- SQL language
 
-Course: Career boost - Quality Assurance 
+- Course: Career boost - Quality Assurance 
 
 Date: 13/10/2023 - 29/01/2024
 
 Operating range:
 
-Mentoring.
+- Mentoring.
 
-Personalized learning plan.
+- Personalized learning plan.
 
-Recruitment interviews.
+- Recruitment interviews.
 
 Testers Summits:
 
@@ -113,42 +113,43 @@ ITLeaders: Freelancer Software Tester Engineer
 
 2023 | current
 
-Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
+- Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
 
-Report defects.
+- Report defects.
 
-Collaborate closely with developers and founder. 
+- Collaborate closely with developers and founder. 
 
 
 Software Tester Engineer - open sources: an application that improves communication among children.
 
 02.10.2023 | current
 
-Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
+- Write test scenarios, perform functional, exploratory, non-functional, manual E2E and regression tests on mobile devices and web-based applications.
 
-Report defects using my custom template and track their resolution.
+- Report defects using my custom template and track their resolution.
 
-Present test results and feedback to clients, collaborate with developers and other team members to ensure quality and usability.
+- Present test results and feedback to clients, collaborate with developers and other team members to ensure quality and usability.
+
 
 Emersoft: Part-time Software Test Engineer 
 
 2023 | current
 
-Test Stripe payments and user dashboard, ensure security and functionality.
+- Test Stripe payments and user dashboard, ensure security and functionality.
 
-Define test scenarios, prepare test data, create and track defects using Jira.
+- Define test scenarios, prepare test data, create and track defects using Jira.
 
-Participate in a cross-functional team in an Agile environment, collaborate closely with developers, company CEO and other stakeholders.
+- Participate in a cross-functional team in an Agile environment, collaborate closely with developers, company CEO and other stakeholders.
 
-Work on the automation backend.
+- Work on the automation backend.
 
 Philip Morris International: customer service consultant
 
 2020– 2023
 
-Supported technical issues of devices and applications, resolved problems and improved performance.
+- Supported technical issues of devices and applications, resolved problems and improved performance.
 
-Supported sales team, provided product information and customer service.
+- Supported sales team, provided product information and customer service.
 
 
 
