@@ -8,7 +8,7 @@ I am interested in technological innovations, making videos and traveling. My pr
 
 
 **
-Project name: Training project 1/2023**
+**Project name: Training project 1/2023**
 
 hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 
@@ -24,7 +24,7 @@ Operating range:
 
 Date: 21/06/2023 - 20/08/2023
 
-Project name: Cherry-IT: COLT 2/2023
+**Project name: Cherry-IT: COLT 2/2023**
 
 hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
 
@@ -43,7 +43,7 @@ Operating range:
 Date: 15/07/2023-13/08/2023
 
 
-Course: Basics of programming in JavaScript
+**Course: Basics of programming in JavaScript**
 
 Date: 1/12/2023 
 
@@ -77,7 +77,7 @@ Operating range:
 
 - Code testing
 
-- Course: SQL course from scratch
+**Course: SQL course from scratch**
 
 - Date: 15/01/2024 - 24/01/2024
 
@@ -87,7 +87,7 @@ Operating range:
 
 - SQL language
 
-- Course: Career boost - Quality Assurance 
+**Course: Career boost - Quality Assurance** 
 
 Date: 13/10/2023 - 29/01/2024
 
@@ -99,7 +99,7 @@ Operating range:
 
 - Recruitment interviews.
 
-Testers Summits:
+**Testers Summits:**
 
 Conference QA Summit 2023 (online)- 30/11/2023
 
@@ -109,7 +109,7 @@ Testing Summit Switzerland A4Q Testing Summit Switzerland - 14/09/2023
 
 
 
-ITLeaders: Freelancer Software Tester Engineer 
+**ITLeaders: Freelancer Software Tester Engineer** 
 
 2023 | current
 
@@ -120,7 +120,7 @@ ITLeaders: Freelancer Software Tester Engineer
 - Collaborate closely with developers and founder. 
 
 
-Software Tester Engineer - open sources: an application that improves communication among children.
+**Software Tester Engineer - open sources: an application that improves communication among children.**
 
 02.10.2023 | current
 
@@ -131,7 +131,7 @@ Software Tester Engineer - open sources: an application that improves communicat
 - Present test results and feedback to clients, collaborate with developers and other team members to ensure quality and usability.
 
 
-Emersoft: Part-time Software Test Engineer 
+**Emersoft: Part-time Software Test Engineer** 
 
 2023 | current
 
@@ -143,7 +143,7 @@ Emersoft: Part-time Software Test Engineer
 
 - Work on the automation backend.
 
-Philip Morris International: customer service consultant
+**Philip Morris International: customer service consultant**
 
 2020– 2023
 
