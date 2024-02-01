@@ -7,7 +7,7 @@ I am interested in technological innovations, making videos and traveling. My pr
 
 
 
-**
+
 **Project name: Training project 1/2023**
 
 hosted by Anna Czyrko (https://www.linkedin.com/in/ania-czyrko-05933aa1/)
